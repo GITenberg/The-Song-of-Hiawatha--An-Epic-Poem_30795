@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/16
     wikipedia: http://en.wikipedia.org/wiki/Henry_Wadsworth_Longfellow
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30795#The-Song-of-Hiawatha--An-Epic-Poem
 gutenberg_issued: '2009-12-29'
 gutenberg_type: Text
 identifiers:
